@@ -1,0 +1,17 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{ } 
+main{flex-grow: 1;} 
+footer{ }
+
+.row div{
+    height: 100px;
+}
+
+*{
+    outline: 1px solid rebeccapurple;
+}
+
+.box{
+    height: 500px;
+    width: 50%;
+}
